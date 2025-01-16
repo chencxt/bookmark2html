@@ -1,0 +1,6 @@
+F:
+cd F:\CodeWorkspace\Python\bookmark2html
+python main.py
+git add output/
+git commit -m "auto output test"
+git push 
